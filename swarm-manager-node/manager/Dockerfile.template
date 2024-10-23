@@ -1,0 +1,2 @@
+FROM docker
+CMD ["bash" "-c" "./start.sh"]
